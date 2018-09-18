@@ -1,0 +1,14 @@
+#target {
+  border: solid 1px #999;
+  padding: 10px;
+}
+
+#target div {
+  border: solid 1px #c00;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+
+#target div:last-child {
+  margin-bottom: 0;
+}
